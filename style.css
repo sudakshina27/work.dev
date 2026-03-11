@@ -151,7 +151,7 @@ html { scroll-behavior: smooth; }
   justify-content: space-between;
   gap: 40px;
   align-items: flex-start;
-  padding: 80px 50px;
+  padding: 80px 130px;
   background-color: #0a0a0a;
 }
 
@@ -180,8 +180,8 @@ html { scroll-behavior: smooth; }
 }
 
 .about-image img {
-  width: 220px;
-  height: 260px;
+  width: 290px;
+  height: 345px;
   object-fit: cover;
   border-radius: 10px;
   box-shadow: 0 0 20px rgba(162, 89, 255, 0.15);
