@@ -5,18 +5,18 @@ const blogPosts = [
 
 
     {
-    title: "My First Post: Building This Portfolio",
-    date: "June 15, 2025",
-    description: "Welcome to my new little corner of the internet! For my very first post, it felt fitting to talk about the creation of this portfolio website itself...",
+    title: "My First Blog Post: Building This Portfolio",
+    date: "March 11, 2026",
+    description: "Welcome to my new little corner of the internet! I'm excited to finally have a space to share my thoughts, projects, and whatever else comes to mind.",
     url: "blog-post-1.html"
   },
 
 
   // Add more blog post objects here
       {
-     title: "Another Blog Title",
-     date: "June 1, 2025",
-     description: "This is a brief summary of the blog post...",
+     title: "Second Post: Test123",
+     date: "Some date",
+     description: "Test content for the second blog post....",
      url: "blog-post-2.html"
    },
 
